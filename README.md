@@ -25,8 +25,8 @@ I'm a recent IT graduate from the University of Queensland, passionate about cre
 - **Open Source**: Contributing to projects that make a difference.  
 
 ## 📫 Let's Connect!  
-- **LinkedIn:** [linkedin.com/in/chienyu](#)  
+- **LinkedIn:** [[linkedin.com/in/chienyu](https://www.linkedin.com/in/chien-yu-chou-864189269/)](#)  
 - **GitHub:** [AngelaCcy](https://github.com/AngelaCcy)  
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
+- **Email:** [angela910914@gmail.com](mailto:angela910914@gmail.com)  
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech!
