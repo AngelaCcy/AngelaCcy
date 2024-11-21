@@ -8,7 +8,7 @@ I'm a recent IT graduate from the University of Queensland, passionate about cre
 - 🎯 Focused on building user-friendly applications that bridge technology and functionality.  
 
 ## 💻 Technologies I Work With 
-- **Languages:** JavaScript, Python, HTML, CSS  
+- **Languages:** JavaScript, Python, HTML, CSS, Java  
 - **Frameworks & Tools:** React, Next.js, Node.js, Bootstrap
 - **Healthcare Standards:** FHIR (Fast Healthcare Interoperability Resources)  
 - **Cloud Platforms:** Google Cloud Platform (GCP Certified)  
