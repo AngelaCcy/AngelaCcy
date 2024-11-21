@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! 👋 I'm Chien-Yu (Angela) Chou
 
-<!--
-**AngelaCcy/AngelaCcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me  
+I'm a recent IT graduate from the University of Queensland, passionate about creating intuitive and impactful web applications. I specialize in **front-end development** with a strong foundation in full-stack applications and cloud technologies.  
 
-Here are some ideas to get you started:
+- 🌱 Currently exploring **cloud computing** and **dynamic front-end designs**.  
+- 🚀 Experienced in collaborative projects, hackathons, and academic research visualizations.  
+- 🎯 Focused on building user-friendly applications that bridge technology and functionality.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies I Work With  
+- **Languages:** JavaScript, Python, HTML, CSS  
+- **Frameworks & Tools:** React, Next.js, Node.js, Bootstrap
+- **Healthcare Standards:** FHIR (Fast Healthcare Interoperability Resources)  
+- **Cloud Platforms:** Google Cloud Platform (GCP Certified)  
+- **Other Tools:** Git, Figma, Unity (XR Applications)  
+
+## 🌟 Key Projects  
+- **Data Visualizer for Academic Research**: Developed a dynamic visualization tool to coordinate findings for a published paper.  
+- **Interactive 3D XR Application**: Created a VR app enabling users to interact with elements in a virtual environment.  
+- **Fact-Checking Chrome Extension**: Built a browser extension leveraging APIs to identify misinformation in real time.  
+
+## 🏆 Highlights  
+- **Hackathon Experience**: Collaborated in teams to ideate and deliver innovative tech solutions.  
+- **Certified GCP Associate Cloud Engineer**: Expanded knowledge of deploying and managing cloud applications.  
+- **Open Source**: Contributing to projects that make a difference.  
+
+## 📫 Let's Connect!  
+- **LinkedIn:** [linkedin.com/in/chienyu](#)  
+- **GitHub:** [AngelaCcy](https://github.com/AngelaCcy)  
+- **Email:** [your.email@example.com](mailto:your.email@example.com)  
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech!
