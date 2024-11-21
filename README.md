@@ -8,7 +8,6 @@ I'm a recent IT graduate from the University of Queensland, passionate about cre
 - 🎯 Focused on building user-friendly applications that bridge technology and functionality.  
 
 ## 💻 Technologies I Work With 
-![Technologies](https://img.shields.io/badge/Technologies-JavaScript%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20GCP-blue)
 - **Languages:** JavaScript, Python, HTML, CSS  
 - **Frameworks & Tools:** React, Next.js, Node.js, Bootstrap
 - **Healthcare Standards:** FHIR (Fast Healthcare Interoperability Resources)  
