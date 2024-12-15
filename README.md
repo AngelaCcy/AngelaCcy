@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Chien-Yu (Angela) Chou
+![image](https://github.com/user-attachments/assets/1de66ec2-a6f2-4b5e-8127-b92d2ec394ce)# Hi there! 👋 I'm Chien-Yu (Angela) Chou
 
 ## 👩‍💻 About Me  
 I'm a recent IT graduate from the University of Queensland, passionate about creating intuitive and impactful web applications. I specialize in **front-end development** with a strong foundation in full-stack applications and cloud technologies.  
@@ -8,12 +8,16 @@ I'm a recent IT graduate from the University of Queensland, passionate about cre
 - 🎯 Focused on building user-friendly applications that bridge technology and functionality.  
 
 ## 💻 Technologies I Work With 
-- **Languages:** JavaScript, Python, HTML, CSS, Java  
-- **Frameworks & Tools:** React, Next.js, Node.js, Bootstrap
+- **Languages:** JavaScript, Python, HTML, CSS, Java, PHP, TypeScript, Node.js
+- **Frameworks & Tools:** React, React Native, Next.js, Bootstrap, Tailwind CSS, Shadcn/UI, CodeIgniter
+- **Databases:** MySQL, Oracle, Vercel Postgres, Supabase
 - **Healthcare Standards:** FHIR (Fast Healthcare Interoperability Resources)  
-- **Cloud Platforms:** Google Cloud Platform (GCP Certified)  
-- **Other Tools:** Git, Figma, Unity (XR Applications)  
-
+- **Cloud Platforms:** Google Cloud Platform (Udemy Certification), Kubernetes (K8S), Docker  
+- **Development Tools:** VS Code, Git, Unity, Cursor, ESLint, Prettier
+- **Design & Collaboration Tools:** Canva, Miro, Figma, Adobe XD
+- **AI Tools:** Relevance AI, Bland.AI, Sahha.AI, OpenAI
+- **Other Tools/Skills:** Microsoft Office Suite (Excel, PowerPoint, Word), RESTful APIs, Prisma (ORM), Zod/React-hook-form, Font Awesome, NextAuth.js, SweetAlert2, Lucide React, Firebase (SaaS), Vercel (SaaS)
+ 
 ## 🌟 Key Projects  
 - **Data Visualizer for Academic Research**: Developed a dynamic visualization tool to coordinate findings for a published paper.  
 - **Interactive 3D XR Application**: Created a VR app enabling users to interact with elements in a virtual environment.  
