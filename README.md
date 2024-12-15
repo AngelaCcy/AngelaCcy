@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1de66ec2-a6f2-4b5e-8127-b92d2ec394ce)# Hi there! 👋 I'm Chien-Yu (Angela) Chou
+# Hi there! 👋 I'm Chien-Yu (Angela) Chou
 
 ## 👩‍💻 About Me  
 I'm a recent IT graduate from the University of Queensland, passionate about creating intuitive and impactful web applications. I specialize in **front-end development** with a strong foundation in full-stack applications and cloud technologies.  
